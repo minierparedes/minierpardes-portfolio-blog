@@ -3,7 +3,7 @@ title: Deficient code knowledge
 subtitle: When you don't know you can't perform
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  incidi
 date: '2020-12-22'
 thumb_image: images/lostNotFound.png
 thumb_image_alt: not found
