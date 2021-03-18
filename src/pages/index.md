@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hello, I''m Jesus Software Engineer'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: "I love programming and the challenges that are the essentials to help you grow. Enjoy family, cooking, and being a good host.✌\U0001F3FD\n"
     actions:
       - label: Let's talk
         url: /contact
