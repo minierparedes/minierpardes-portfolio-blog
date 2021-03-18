@@ -1,6 +1,6 @@
 ---
 title: Deficient code knowledge
-subtitle: 'A interesting tale about function of design '
+subtitle: When you don't know you can't perform
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
