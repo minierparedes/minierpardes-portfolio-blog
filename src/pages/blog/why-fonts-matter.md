@@ -5,7 +5,7 @@ excerpt: >-
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
   placerat lorem.
 date: '2020-12-18'
-thumb_image: images/12_thumb.jpg
+thumb_image: images/attentie-attentie-ig7vN6OkGNE-unsplash.jpg
 thumb_image_alt: A pile of books on the table
 image: images/12.jpg
 image_alt: A pile of books on the table
