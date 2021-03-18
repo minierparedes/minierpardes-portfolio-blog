@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Chef Awesome
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/Screen Shot 2021-03-18 at 23.36.27.png
