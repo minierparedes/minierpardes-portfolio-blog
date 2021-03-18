@@ -6,7 +6,7 @@ excerpt: >-
   incididunt ut labore et dolore magna aliqua.
 date: '2020-12-22'
 thumb_image: images/13_thumb.jpg
-thumb_image_alt: map
+thumb_image_alt: not found
 image: images/13.jpg
 image_alt: Library shelves
 seo:
