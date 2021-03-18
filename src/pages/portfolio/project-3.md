@@ -1,5 +1,5 @@
 ---
-title: Covid
+title: Covid-19
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/Screen Shot 2021-03-18 at 23.41.28.png
