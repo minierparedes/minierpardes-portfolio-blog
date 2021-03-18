@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: MusicWand
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/Screen Shot 2021-03-18 at 23.40.00.png
