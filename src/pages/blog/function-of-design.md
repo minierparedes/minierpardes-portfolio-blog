@@ -8,7 +8,7 @@ date: '2020-12-22'
 thumb_image: images/lostNotFound.png
 thumb_image_alt: not found
 image: images/neat-velociraptor.png
-image_alt: Library shelves
+image_alt: not found
 seo:
   title: The function of design is letting design function
   description: >-
