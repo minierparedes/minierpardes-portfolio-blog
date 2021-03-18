@@ -49,10 +49,11 @@ My first time at LeetCode, a platform for anyone to practice programming skills 
 The article that made the biggest impact was [How Introductory Computer Programming Should Be Taught](https://thelearningprogrammer.com/how-introductory-computer-programming-should-be-taught/), in the article the author explains some of the issues with how computer programming is taught and how it can be improved. One of the most important paragraphs that afffects me personally is in regards to lacking knowledge and how it directly impacts ones ability to write code and solve programming problems.
 
 **DEFICIENCY IN CODE READING AND WRITING SKILLS**
+
+
 It’s important that before anyone can be successful at solving coding challenges, one must be able to read code and be able to predict its behavior, which comes from lots of code reading and code writing. Not having this knowledge will lead to misunderstandings or incorrectly understanding what a program’s code does, this leads to misinterpretation of the code and being able to implemented.
 When one has a strong foundation in programming fundamentals and data structure and algorithms, you are equipped to tackle programming problems and the challenges with a great sense of how to approach the problem and how to go about getting to the solution. However, if programming foundations are deficient, then attempting to solve programming problems can lead a lot of frustration and for the program having errors. If there is deficiency in code reading skills and code writing skills, numerous syntax errors will be made when trying to write the solutions to coding challenge. If there is deficiency in code reading skills and code writing skills, it is likely that the solution to the Programming challenge will also have a lot of logic errors.
 
 **source**
-
 
 [-The Learning Programmer](https://thelearningprogrammer.com/how-introductory-computer-programming-should-be-taught/)
