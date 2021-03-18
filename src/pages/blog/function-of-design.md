@@ -5,7 +5,7 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
 date: '2020-12-22'
-thumb_image: images/13_thumb.jpg
+thumb_image: images/lostNotFound.png
 thumb_image_alt: not found
 image: images/13.jpg
 image_alt: Library shelves
