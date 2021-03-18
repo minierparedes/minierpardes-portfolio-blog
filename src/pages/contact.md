@@ -5,8 +5,9 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Thank you so much for your interest and I hope we working together. Send
-      an email at [minier8201@gmail.com](mineir8201@gmail.com)
+      Thank you for your interest and I hope we working together. For more
+      information or inquiries please fill-in the form or send an email at
+      [minier8201@gmail.com](mineir8201@gmail.com)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
