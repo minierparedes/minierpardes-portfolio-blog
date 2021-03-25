@@ -1,8 +1,6 @@
 ---
 title: LeetCode 217 Contains duplicate
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+excerpt: 'Given an array of integers, find if the array contains any duplicates.'
 date: '2020-12-23'
 thumb_image: images/natalia-y-NScCnMEYHQ0-unsplash.jpg
 thumb_image_alt: duplicates copies of p
