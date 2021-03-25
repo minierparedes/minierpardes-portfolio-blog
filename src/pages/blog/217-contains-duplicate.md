@@ -68,3 +68,34 @@ The challenge is asking for the function to be able to find **ANY** duplicate va
 ## Approach
 
 Create an empty object and a for loop. Inside the for loop set an `if`  statement where we ask: is the value in the array inside the object? if so `return true` . Followed by taking each of the values from  the array and mapping them to the object's keys, setting each of the object's values to true. Lastly the function `return false` if no match is found.
+
+#### time complexity
+
+Mapping out array values to the object will take the same amount of operations as the number of input increases making this _**O(n)**_.
+
+#### space complexity
+
+There is use of only one object ``` match ``` to store the key/value pairs from the given array ``` nums ``` .<br> Key maps to each array value and each of the key's value is set to true, giving it a space complexity of _***O(n)***_.
+
+## Code
+
+```javascript
+function containsDuplicate(nums) {
+    const match = {};
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] in match) return true;
+        
+        match[nums[i]] = true;
+    }
+    return false;
+};
+```
+
+<br>
+<br>
+
+## Road to 170
+
+**LC: 1**
+
+This is the first Leetcode challenge of the 170 challenges from the [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/) by Sean Prashad
