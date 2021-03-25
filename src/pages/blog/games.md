@@ -17,7 +17,7 @@ seo:
       value: LeetCode 136 Single Number
       keyName: property
     - name: 'og:description'
-      value: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
+      value: Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
       keyName: property
     - name: 'og:image'
       value: images/6.jpg
@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: LeetCode 136 Single Number
     - name: 'twitter:description'
-      value: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
+      value: Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
     - name: 'twitter:image'
       value: images/6.jpg
       relativeUrl: true
