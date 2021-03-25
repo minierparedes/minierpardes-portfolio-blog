@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Why Fonts Matter
+      value: mastering data structures and algorithms
       keyName: property
     - name: 'og:description'
       value: >-
