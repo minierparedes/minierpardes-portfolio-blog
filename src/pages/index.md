@@ -17,7 +17,7 @@ sections:
     view_all_url: portfolio
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
+    title: Latest from my Journal
     subtitle: An optional subtitle of the section
     posts_number: 3
     col_number: three
