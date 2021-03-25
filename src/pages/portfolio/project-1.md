@@ -4,7 +4,7 @@ subtitle: Full Stack website
 date: '2019-05-10'
 thumb_image: images/Screen Shot 2021-03-18 at 23.36.27.png
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: images/important-moon.png
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
