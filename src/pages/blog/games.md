@@ -1,8 +1,6 @@
 ---
 title: What are some of the best designed video games
-excerpt: >-
-  Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Duis
-  tristique sollicitudin nibh sit amet commodo nulla facilisi.
+excerpt: Frequency Counter
 date: '2018-01-09'
 thumb_image: images/andreas-wagner-FtuaKc0on6Y-unsplash.jpg
 thumb_image_alt: 'a single mushroom, single number'
