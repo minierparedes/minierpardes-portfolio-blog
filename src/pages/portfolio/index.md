@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Current
+subtitle: 'Current projects '
 layout_style: mosaic
 seo:
   title: Portfolio
