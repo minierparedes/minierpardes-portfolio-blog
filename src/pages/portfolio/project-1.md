@@ -38,7 +38,7 @@ template: project
 
 A website dedicated to the best recipes and exclusive content to users. Users can schedule private events on the site calendar, be a part of the mailing list and many more features. Find and share everyday cooking recipes with chef awesome. Discover simple recipes for anyone to follow.
 
-*   **Recipes Provide** instructions and ingredient list to be followed.
+*   **Recipes **Provide instructions and ingredient list to be followed.
 
 <!---->
 
@@ -54,9 +54,7 @@ A website dedicated to the best recipes and exclusive content to users. Users ca
 
 <!---->
 
-*   **Responsive design**   The design and development of the web app response to the user's platform, screen size, and device orientation.
-
-
+*   **Responsive design**    The design and development of the web app response to the user's platform, screen size, and device orientation.
 
 # Website/ deployment
 
