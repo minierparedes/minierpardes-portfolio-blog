@@ -14,7 +14,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: What are some of the best designed video games
+      value: LeetCode 136 Single Number
       keyName: property
     - name: 'og:description'
       value: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: What are some of the best designed video games
+      value: LeetCode 136 Single Number
     - name: 'twitter:description'
       value: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
     - name: 'twitter:image'
