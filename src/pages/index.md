@@ -26,7 +26,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
+  title: Portfolio. JavaScript & Swift dev
   description: Portfolio site and JavaScript dev & Swift dev journal.
   extra:
     - name: 'og:type'
