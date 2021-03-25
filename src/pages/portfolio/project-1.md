@@ -54,7 +54,9 @@ A website dedicated to the best recipes and exclusive content to users. Users ca
 
 <!---->
 
-*   **Responsive design  ** The design and development of the web app response to the user's platform, screen size, and device orientation.
+*   **Responsive design**   The design and development of the web app response to the user's platform, screen size, and device orientation.
+
+\<!---->
 
 # Website/ deployment
 
