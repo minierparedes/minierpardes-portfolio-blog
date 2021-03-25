@@ -2,7 +2,7 @@
 title: MusicWand
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: images/Screen Shot 2021-03-18 at 23.40.00.png
+thumb_image: images/marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
