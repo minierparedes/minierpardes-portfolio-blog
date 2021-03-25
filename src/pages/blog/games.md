@@ -7,7 +7,7 @@ thumb_image_alt: 'a single mushroom, single number'
 image: images/adorable-cabbage.jpg
 image_alt: 'a single mushroom, single number'
 seo:
-  title: What are some of the best designed video games
+  title: LeetCode 136 Single Number
   description: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
   extra:
     - name: 'og:type'
