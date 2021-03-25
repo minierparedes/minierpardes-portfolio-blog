@@ -1,6 +1,8 @@
 ---
 title: LeetCode 136 Single Number
-excerpt: Frequency Counter
+excerpt: >-
+  Given a non-empty array of integers nums, every element appears twice except
+  for one. Find that single one.
 date: '2020-12-28'
 thumb_image: images/andreas-wagner-FtuaKc0on6Y-unsplash.jpg
 thumb_image_alt: 'a single mushroom, single number'
@@ -8,7 +10,9 @@ image: images/adorable-cabbage.jpg
 image_alt: 'a single mushroom, single number'
 seo:
   title: LeetCode 136 Single Number
-  description: Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+  description: >-
+    Given a non-empty array of integers nums, every element appears twice except
+    for one. Find that single one.
   extra:
     - name: 'og:type'
       value: article
@@ -17,7 +21,9 @@ seo:
       value: LeetCode 136 Single Number
       keyName: property
     - name: 'og:description'
-      value: Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+      value: >-
+        Given a non-empty array of integers nums, every element appears twice
+        except for one. Find that single one.
       keyName: property
     - name: 'og:image'
       value: images/6.jpg
@@ -28,7 +34,9 @@ seo:
     - name: 'twitter:title'
       value: LeetCode 136 Single Number
     - name: 'twitter:description'
-      value: Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+      value: >-
+        Given a non-empty array of integers nums, every element appears twice
+        except for one. Find that single one.
     - name: 'twitter:image'
       value: images/6.jpg
       relativeUrl: true
