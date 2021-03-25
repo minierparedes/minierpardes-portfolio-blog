@@ -5,7 +5,7 @@ excerpt: >-
   tristique sollicitudin nibh sit amet commodo nulla facilisi.
 date: '2018-01-09'
 thumb_image: images/andreas-wagner-FtuaKc0on6Y-unsplash.jpg
-thumb_image_alt: A handheld game console on a yellow background
+thumb_image_alt: 'a single mushroom, single number'
 image: images/6.jpg
 image_alt: A handheld game console on a yellow background
 seo:
