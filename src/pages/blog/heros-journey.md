@@ -43,13 +43,27 @@ seo:
       relativeUrl: true
 template: post
 ---
+# A hero's Journey
 
-**Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
+This is my journey to mastering data structures and algorithms, both for myself,helpinng further develop my coding and analitical skills, as well as for being able to have an opportunity at** cracking the coding interview**. I plan to record my daily grid, working withLeetCode and its platform of coding challenges.
 
-Phasellus commodo dolor sit amet, consectetur adipiscing elit. Nam a finibus magna. Sed et pulvinar dolor. Suspendisse vitae iaculis lacus. Proin vulputate, leo eget pulvinar faucibus, felis est condimentum lorem, in rhoncus neque felis ac leo. Duis felis lectus, ultrices id dolor vel, tincidunt tristique nunc. Nullam quis orci magna. Proin eget nunc et dolor hendrerit eleifend. Praesent a vehicula justo, quis convallis lacus. Phasellus porttitor, turpis vel placerat condimentum, urna felis volutpat ligula, et ultricies arcu mi ac nisl. Cras id consectetur ligula, et mollis odio. Aenean erat dui, congue vitae nisi a, aliquet lobortis eros.
+The materials and resources I will be using are: 
 
-> The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
+[**SeanPrashad LeetCode patterns**](https://seanprashad.com/leetcode-patterns/)
+[**Grokking the Coding Interview**](https://www.educative.io/courses/grokking-the-coding-interview)
+[**Udemy Mastering DSA**](https://seanprashad.com/leetcode-patterns/)
 
-Sed augue lorem, porta nec lorem et, luctus egestas nunc. Sed in tellus at enim commodo pharetra. Mauris nisi ipsum, auctor nec justo non, lobortis ullamcorper magna. Pellentesque posuere posuere dolor, quis egestas est ultrices id. Cras at urna lectus. Curabitur in placerat ligula. Phasellus pharetra scelerisque lectus, id sagittis lorem pretium eget. Phasellus commodo nunc ante, nec commodo urna iaculis eu. Pellentesque euismod et ante quis vestibulum. Ut quis sapien nisi. Sed interdum sit amet sem et vestibulum. Maecenas tempor dictum leo, quis rutrum purus tincidunt vitae. Fusce vel turpis risus. Donec congue accumsan tempus. Nunc nec elit magna. Aenean luctus auctor ligula at lacinia.
 
-Donec neque lorem, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+## Sean Prashad LeetCode Patterns
+
+A list of the best LeetCode questions that teach you core concepts and techniques for each category/type of problems. His list is for any individual wanting to improve their problem solving skills for software engineering interviews.Problems are grouped under their respective subtopic, in order to focus on repeatedly applying common patterns rather than randomly tackling questions.All questions are available on
+[**LeetCode**](https://leetcode.com)
+
+## Grokking the Coding Interview: Patterns for Coding Questions
+
+The site is dedicated to help give:> the ability to map a new problem to an already known problem.
+They help candidates with that, we've come up with a list of 16 patterns for coding questions, based on similarities in the techniques needed to solve them. As a result, once you're familiar with a pattern, you'll be able to solve dozens of problems with it.
+
+## JavaScript Algorithms and Data Structure Masterclas
+
