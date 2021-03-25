@@ -7,7 +7,7 @@ date: '2018-01-09'
 thumb_image: images/andreas-wagner-FtuaKc0on6Y-unsplash.jpg
 thumb_image_alt: 'a single mushroom, single number'
 image: images/adorable-cabbage.jpg
-image_alt: A handheld game console on a yellow background
+image_alt: 'a single mushroom, single number'
 seo:
   title: What are some of the best designed video games
   description: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
