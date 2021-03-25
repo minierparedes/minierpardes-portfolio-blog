@@ -42,19 +42,19 @@ A website dedicated to the best recipes and exclusive content to users. Users ca
 
 <!---->
 
-*   \*\*Services \*\* Private events, personal cooking classes, and cooking meetups are scheduled through onsite calander.
+*   **Services**  Private events, personal cooking classes, and cooking meetups are scheduled through onsite calander.
 
 <!---->
 
-*   \*\*Products \*\* List of items and tools that are used for the recipes that anyone can get.
+*   **Products**  List of items and tools that are used for the recipes that anyone can get.
 
 <!---->
 
-*   \*\*Mailing list \*\* Users can register and recieve the latest recipes and tips.
+*   **Mailing list ** Users can register and recieve the latest recipes and tips.
 
 <!---->
 
-*   \*\*Responsive design \*\* The design and development of the web app response to the user's platform, screen size, and device orientation.
+*   **Responsive design ** The design and development of the web app response to the user's platform, screen size, and device orientation.
 
 # Website/ deployment
 
