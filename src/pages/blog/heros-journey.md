@@ -10,7 +10,7 @@ thumb_image_alt: A pile of books on the table
 image: images/12.jpg
 image_alt: A pile of books on the table
 seo:
-  title: Why Fonts Matter
+  title: mastering data structures and algorithms
   description: >-
     Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
     primis
