@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle: Grit and consistency
+subtitle: 'Grit and consistency, patience and love'
 image_alt: A man taking a picture
 seo:
   title: About Us
