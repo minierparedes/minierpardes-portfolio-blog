@@ -8,7 +8,7 @@ image: images/adorable-cabbage.jpg
 image_alt: 'a single mushroom, single number'
 seo:
   title: LeetCode 136 Single Number
-  description: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
+  description: Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
   extra:
     - name: 'og:type'
       value: article
