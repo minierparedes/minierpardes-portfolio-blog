@@ -65,3 +65,6 @@ Output: true
 
 The challenge is asking for the function to be able to find **ANY** duplicate values. Whenever the input is an array and it requires to **find** matching values my immediate thought to help me find a solution is to use an object. The object can be use to map out all the given inputs from the array to the object and check against the given array's values to see if the values have been assigned already and there is a match.
 
+## Approach
+
+Create an empty object and a for loop. Inside the for loop set an `if`  statement where we ask: is the value in the array inside the object? if so `return true` . Followed by taking each of the values from  the array and mapping them to the object's keys, setting each of the object's values to true. Lastly the function `return false` if no match is found.
