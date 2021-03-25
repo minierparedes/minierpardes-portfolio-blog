@@ -38,9 +38,9 @@ template: project
 
 A website dedicated to the best recipes and exclusive content to users. Users can schedule private events on the site calendar, be a part of the mailing list and many more features. Find and share everyday cooking recipes with chef awesome. Discover simple recipes for anyone to follow.
 
-*   \*\*Recipes \*\*
+*   **Recipes Provide** instructions and ingredient list to be followed.
 
-<!---->Provide instructions and ingredient list to be followed.
+<!---->
 
 *   \*\*Services \*\* Private events, personal cooking classes, and cooking meetups are scheduled through onsite calander.
 
