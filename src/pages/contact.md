@@ -5,7 +5,7 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Thank you for your interest feel free to reach out
+      **Thank you** for your interest, feel free to reach out
       [minier8201@gmail.com](mineir8201@gmail.com)
     form_id: contactForm
     form_action: /thank-you
