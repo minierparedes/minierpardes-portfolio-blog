@@ -35,8 +35,78 @@ seo:
 template: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum nisi quis eleifend quam adipiscing vitae proin. Fermentum dui faucibus in ornare quam viverra orci sagittis. Nunc mattis enim ut tellus elementum sagittis. Sed nisi lacus sed viverra tellus. Lectus arcu bibendum at varius vel. Lacus laoreet non curabitur gravida arcu. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Eget dolor morbi non arcu. Volutpat est velit egestas dui id ornare arcu. Orci porta non pulvinar neque laoreet suspendisse interdum. Odio euismod lacinia at quis risus. Iaculis nunc sed augue lacus viverra. Suspendisse in est ante in nibh mauris cursus. Consectetur adipiscing elit ut aliquam purus sit amet luctus venenatis. Non odio euismod lacinia at quis risus sed vulputate. Semper viverra nam libero justo. Amet cursus sit amet dictum sit.
+## Coding challenge
 
-Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Mauris augue neque gravida in fermentum et. Tincidunt lobortis feugiat vivamus at augue. Iaculis urna id volutpat lacus laoreet. Risus feugiat in ante metus dictum at tempor commodo. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Enim eu turpis egestas pretium aenean pharetra magna. Urna cursus eget nunc scelerisque viverra mauris in aliquam. Vulputate dignissim suspendisse in est ante in nibh mauris cursus. A cras semper auctor neque vitae. Rhoncus dolor purus non enim praesent elementum facilisis. Nam aliquam sem et tortor consequat id porta nibh venenatis. Sollicitudin ac orci phasellus egestas tellus. Et magnis dis parturient montes nascetur ridiculus.
+Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
 
-Tincidunt lobortis feugiat vivamus at augue eget arcu. Est lorem ipsum dolor sit amet consectetur adipiscing elit. Non nisi est sit amet facilisis magna etiam tempor. Et egestas quis ipsum suspendisse. Turpis egestas pretium aenean pharetra magna. Diam sollicitudin tempor id eu nisl nunc mi ipsum. Diam in arcu cursus euismod quis viverra nibh cras. Ornare lectus sit amet est placerat in egestas erat imperdiet. Adipiscing enim eu turpis egestas pretium. Sit amet est placerat in egestas. Euismod lacinia at quis risus sed vulputate odio. Quis commodo odio aenean sed adipiscing diam. Fermentum et sollicitudin ac orci phasellus. Eget aliquet nibh praesent tristique magna. Quisque sagittis purus sit amet volutpat consequat. Diam quis enim lobortis scelerisque fermentum dui. Leo urna molestie at elementum eu facilisis sed. Eget nulla facilisi etiam dignissim. Volutpat odio facilisis mauris sit amet.
+Follow up: Could you implement a solution with a linear runtime complexity and without using extra memory? 
+
+##### Constraints
+
+
+`1 <= nums.length <= 3 * 104
+ -3 * 104 <= nums[i] <= 3 * 104
+ 0 <= nums[i] <= n
+ Each element in the array appears 
+ twice except for one element which appears only once.
+`
+
+#### examples:
+
+
+```javascript
+Input: nums = [2,2,1]
+Output: 1
+
+Input: nums = [4,1,2,1,2]
+Output: 4
+
+Input: nums = [1]
+Output: 1
+
+```
+<br>
+
+## Breakdown and Discussion of challenge
+
+Given an unsorted array of integer values, all having a duplicate, we need to **check** all the numbers and see which number is the **single**, **unique**, number that only appears once. Whenever there is a challenge that requires **finding** something within the array, against some factor, in this case getting a single unique number from all the ones with their duplicates, I like to immediately think of using an object to map the array's values to the object. I wanted to try implementing a two pointer approach, but I was not successful in getting the pattern to work with numbers in the middle or near the end of the array, e.g. `[2, 1, 2, 4, 1]`. I believe that given enough time, or help, I will be able to get to the solution. 
+
+Using an object, allowing it to have all the array values as keys and I then check the object to see which of its key values have a higher value than 1, returning that unique key.
+
+
+## Approach
+
+Create an object `uniq` within the function to map all the array values to a key, setting each value to 1. Use a for loop to iterate through all the array values. In the for loop we use an if statement to ask: if the object `uniq` when called using the array's values `uniq[nums[i]]` as its key property, is available then increment++ its value by one, otherwise set its value to one. A second loop is set, this time a for in loop, to check if object `uniq` has any key property whos value is stricly equals to 1? if so then return the key's value else return -1.
+
+#### time complexity
+
+ _**O(n)**_.
+
+#### space complexity
+
+_***O(n)***_.
+
+## Code
+
+```javascript
+function singleValue(nums) {
+    const uniq = {};
+
+    for (let i = 0; i < nums.length; i++) {
+        uniq[nums[i]] ? uniq[nums[i]]++ : uniq[nums[i]] = 1;
+    }
+    for ( let i in uniq) {
+        if (uniq[i] === 1) return i;
+    }
+    return -1;
+};
+```
+
+<br>
+<br>
+
+## Road to 170
+
+**LC: 4**
+
+This is the fourth Leetcode challenge of the 170 challenges from the [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/) by Sean Prashad
