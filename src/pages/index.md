@@ -27,7 +27,7 @@ sections:
         style: button
 seo:
   title: Stackbit Exto Theme
-  description: The preview of the Exto theme
+  description: Porfolio
   extra:
     - name: 'og:type'
       value: website
