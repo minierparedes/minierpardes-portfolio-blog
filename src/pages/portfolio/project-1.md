@@ -1,6 +1,6 @@
 ---
 title: Chef Awesome
-subtitle: Full Stack website
+subtitle: 'Full Stack website for a '
 date: '2019-05-10'
 thumb_image: images/Screen Shot 2021-03-18 at 23.36.27.png
 thumb_image_alt: 'White, black, and red shoe sole'
