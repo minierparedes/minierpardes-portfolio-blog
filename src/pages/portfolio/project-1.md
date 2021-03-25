@@ -36,4 +36,36 @@ template: project
 ---
 # Description
 
-A website dedicated to the best recipes and exclusive content to registered users. Users can schedule private events on the site calendar, be a part of the mailing list and many more features. Find and share everyday cooking recipes with chef awesome. Discover simple recipes for anyone to follow.
+A website dedicated to the best recipes and exclusive content to users. Users can schedule private events on the site calendar, be a part of the mailing list and many more features. Find and share everyday cooking recipes with chef awesome. Discover simple recipes for anyone to follow.
+
+**Recipes**
+
+ Provide instructions and ingredient list to be followed.
+
+<!---->
+
+**Services**
+
+ Private events, personal cooking classes, and cooking meetups are scheduled through onsite calander.
+
+<!---->
+
+**Products**
+
+ List of items and tools that are used for the recipes that anyone can get.
+
+<!---->
+
+**Mailing list**
+
+ Users can register and recieve the latest recipes and tips.
+
+<!---->
+
+**Responsive design**
+
+ The design and development of the web app response to the user's platform, screen size, and device orientation.
+
+# Website/ deployment
+
+The website will be deployed and hosted in Heroku. Heroku Postgres is a managed SQL database service provided directly by Heroku.
