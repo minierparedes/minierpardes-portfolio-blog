@@ -3,7 +3,7 @@ title: Hero's Journey
 excerpt: >-
   This is my journey to mastering data structures and algorithms, both for
   myself, helpinng further develop my coding and analitical skills, as well as
-  for being able to have an opportunity at ** cracking the coding interview **.
+  for being able to have an opportunity at **cracking the coding interview **.
 date: '2020-12-18'
 thumb_image: images/attentie-attentie-ig7vN6OkGNE-unsplash.jpg
 thumb_image_alt: A pile of books on the table
