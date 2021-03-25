@@ -1,6 +1,5 @@
 ---
 title: Journal
-subtitle: Jour
 hide_title: false
 col_number: three
 seo:
