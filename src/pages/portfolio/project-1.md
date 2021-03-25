@@ -59,3 +59,16 @@ A website dedicated to the best recipes and exclusive content to users. Users ca
 # Website/ deployment
 
 The website will be deployed and hosted in Heroku. Heroku Postgres is a managed SQL database service provided directly by Heroku.
+
+
+
+# Tech stack
+
+This is a full stack website using the following tech stack: 
+
+
+
+JavaScript, HTML/CSS, React.js for frontend and form validation 
+Node.js and Express.js server side 
+PostgreSQL database 
+The project is on going and is being updated constantly.
