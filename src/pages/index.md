@@ -18,7 +18,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from my Journal
-    subtitle: An optional subtitle of the section
+    subtitle: 'Documenting '
     posts_number: 3
     col_number: three
     actions:
