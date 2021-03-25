@@ -5,7 +5,7 @@ excerpt: >-
   sapien blandit ac amet faucibus aliquet placerat commodo.
 date: '2020-12-23'
 thumb_image: images/natalia-y-NScCnMEYHQ0-unsplash.jpg
-thumb_image_alt: A leather notebook and a pen on a wooden working table
+thumb_image_alt: duplicates copies of p
 image: images/cool-mahogany.jpg
 image_alt: duplicates copies of p
 seo:
