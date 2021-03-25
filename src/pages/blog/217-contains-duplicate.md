@@ -64,3 +64,4 @@ Output: true
 ## Breakdown and Discussion of challenge
 
 The challenge is asking for the function to be able to find **ANY** duplicate values. Whenever the input is an array and it requires to **find** matching values my immediate thought to help me find a solution is to use an object. The object can be use to map out all the given inputs from the array to the object and check against the given array's values to see if the values have been assigned already and there is a match.
+
