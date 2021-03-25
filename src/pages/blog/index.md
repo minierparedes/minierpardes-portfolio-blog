@@ -29,5 +29,5 @@ seo:
       value: images/12.jpg
       relativeUrl: true
 template: blog
-subtitle: 'Algorithms & Data structures, JavaScript and'
+subtitle: 'Algorithms & Data structures, Full stack and Swift'
 ---
