@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle: This is a short page about us and our work.
+subtitle: Grit and consistency
 image_alt: A man taking a picture
 seo:
   title: About Us
