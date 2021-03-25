@@ -31,11 +31,6 @@ seo:
       relativeUrl: true
 template: page
 ---
+\*\*\*I am\*\*\* a software engineer with experience in JavaScript and Swift. From a very young age I have been interested in technologies, how cool and amazing they are. While playing video games I always wondered how they were made and how incredible it would be if I were able to create them. That passion stayed with me and drives me to continue to be a part of the tech industry as a software engineer.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+Being able to create programs, small games and be involved with other software engineer is an experience to which I am grateful for. Currently I am working on a Swift personal project to further familiarize myself with SwiftUI and apple new programing paradigm. When I am not banging my head on the keyboard or talking to rubber ducky, I love spending time cooking and being with my family.
