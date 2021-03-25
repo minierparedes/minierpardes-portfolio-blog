@@ -1,7 +1,7 @@
 ---
 title: LeetCode 136 Single Number
 excerpt: Frequency Counter
-date: '2018-01-09'
+date: '2020-12-28'
 thumb_image: images/andreas-wagner-FtuaKc0on6Y-unsplash.jpg
 thumb_image_alt: 'a single mushroom, single number'
 image: images/adorable-cabbage.jpg
