@@ -6,7 +6,7 @@ excerpt: >-
 date: '2020-12-23'
 thumb_image: images/natalia-y-NScCnMEYHQ0-unsplash.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
-image: images/11.jpg
+image: images/cool-mahogany.jpg
 image_alt: A leather notebook and a pen on a wooden working table
 seo:
   title: The Elements of Great Workplace Design
