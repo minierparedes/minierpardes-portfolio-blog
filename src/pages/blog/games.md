@@ -1,5 +1,5 @@
 ---
-title: What are some of the best designed video games
+title: LeetCode 136 Single Number
 excerpt: Frequency Counter
 date: '2018-01-09'
 thumb_image: images/andreas-wagner-FtuaKc0on6Y-unsplash.jpg
