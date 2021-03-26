@@ -6,7 +6,7 @@ excerpt: >-
   aenean vel elit.
 date: '2016-08-22'
 thumb_image: images/makers-on-a-map.jpg
-image: images/9.jpg
+image: images/marvelous-goat.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
   description: Interdum posuere lorem ipsum dolor sit amet consectetur
