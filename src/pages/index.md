@@ -36,7 +36,9 @@ seo:
       value: 'Minierparedes Portfolio Software engineer '
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        Portfolio and Software engineering for JavaScript & Swift, along with
+        algorithm and data structures.
       keyName: property
     - name: 'og:image'
       value: /images/Screen%20Shot%202021-03-26%20at%2010.22.20.png
