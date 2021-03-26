@@ -21,8 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
-        ac eu interdum placerat
+        Dynamic Programming
       keyName: property
     - name: 'og:image'
       value: images/10.jpg
