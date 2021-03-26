@@ -33,8 +33,7 @@ seo:
       value: LeetCode 53 Maximum subarray
     - name: 'twitter:description'
       value: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt
+        Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
