@@ -22,8 +22,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt
+        Dynamic Programming
       keyName: property
     - name: 'og:image'
       value: images/8.jpg
