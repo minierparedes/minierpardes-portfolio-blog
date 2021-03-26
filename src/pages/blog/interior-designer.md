@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque.
 date: '2017-03-26'
 thumb_image: images/fabian-fauth-RiWvn39cZSQ-unsplash.jpg
-thumb_image_alt: Modern white table
+thumb_image_alt: endless staircase
 seo:
   title: How To Choose An Interior Designer
   description: >-
