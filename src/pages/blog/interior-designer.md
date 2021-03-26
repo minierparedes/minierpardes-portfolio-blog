@@ -1,5 +1,5 @@
 ---
-title: How To Choose An Interior Designer
+title: LeetCode 70 Climbing Stairs
 subtitle: >-
   Dynamic Programming
 excerpt: >-
