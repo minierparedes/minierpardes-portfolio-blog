@@ -12,8 +12,7 @@ image_alt: bullish market statue
 seo:
   title: LeetCode 121 Best time to buy and sell stock
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt
+    Dynamic Programming
   extra:
     - name: 'og:type'
       value: article
