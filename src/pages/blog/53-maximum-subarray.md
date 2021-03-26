@@ -7,7 +7,7 @@ excerpt: >-
 date: '2021-01-04'
 thumb_image: images/antonio-garcia-ndz_u1_tFZo-unsplash.jpg
 thumb_image_alt: an array of solar panels
-image: images/5.jpg
+image: images/magical-moon.jpg
 image_alt: an array of solar panels
 seo:
   title: LeetCode 53 Maximum subarray
