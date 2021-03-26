@@ -8,7 +8,7 @@ thumb_image: images/makers-on-a-map.jpg
 image: images/marvelous-goat.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
-  description: Interdum posuere lorem ipsum dolor sit amet consectetur
+  description: Frequency Counter
   extra:
     - name: 'og:type'
       value: article
