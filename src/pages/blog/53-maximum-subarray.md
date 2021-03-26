@@ -1,17 +1,19 @@
 ---
 title: LeetCode 53 Maximum subarray
-subtitle: 'dynamic programming'
+subtitle: dynamic programming
 excerpt: >-
-  Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+  Given an integer array nums, find the contiguous subarray (containing at least
+  one number) which has the largest sum and return its sum.
 date: '2021-01-04'
-thumb_image: images/5_thumb.jpg
+thumb_image: images/antonio-garcia-ndz_u1_tFZo-unsplash.jpg
 thumb_image_alt: an array of solar panels
 image: images/5.jpg
 image_alt: an array of solar panels
 seo:
   title: LeetCode 53 Maximum subarray
   description: >-
-    Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+    Given an integer array nums, find the contiguous subarray (containing at
+    least one number) which has the largest sum and return its sum.
   extra:
     - name: 'og:type'
       value: article
@@ -21,7 +23,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+        Given an integer array nums, find the contiguous subarray (containing at
+        least one number) which has the largest sum and return its sum.
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
@@ -33,7 +36,8 @@ seo:
       value: LeetCode 53 Maximum subarray
     - name: 'twitter:description'
       value: >-
-        Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+        Given an integer array nums, find the contiguous subarray (containing at
+        least one number) which has the largest sum and return its sum.
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
