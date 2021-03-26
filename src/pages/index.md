@@ -49,7 +49,9 @@ seo:
     - name: 'twitter:title'
       value: Minierparedes Portfolio Software engineer
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        Portfolio and Software engineering for JavaScript & Swift, along with
+        algorithm and data structures.
     - name: 'twitter:image'
       value: /images/magical-yam.png
       relativeUrl: true
