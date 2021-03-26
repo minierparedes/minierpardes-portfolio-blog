@@ -1,5 +1,5 @@
 ---
-title: Understanding Street Photography
+title: LeetCode 121 Best time to buy and sell stock
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
@@ -9,7 +9,7 @@ thumb_image_alt: Hello this way printed on a red metal gate
 image: images/8.jpg
 image_alt: Hello this way printed on a red metal gate
 seo:
-  title: Understanding Street Photography
+  title: LeetCode 121 Best time to buy and sell stock
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt
@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Understanding Street Photography
+      value: LeetCode 121 Best time to buy and sell stock
       keyName: property
     - name: 'og:description'
       value: >-
@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Understanding Street Photography
+      value: LeetCode 121 Best time to buy and sell stock
     - name: 'twitter:description'
       value: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
