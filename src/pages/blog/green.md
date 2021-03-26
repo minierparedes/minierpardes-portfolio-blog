@@ -1,5 +1,5 @@
 ---
-title: Green is my favorite color
+title: LeetCode 53 Maximum subarray
 subtitle: 'Apparently, green is my favorite color.'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
