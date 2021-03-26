@@ -8,7 +8,7 @@ excerpt: >-
   interdum placerat placerat arcu commodo lobortis adipiscing semper ornare
   pellentesque.
 date: '2017-03-26'
-thumb_image: images/10_thumb.jpg
+thumb_image: images/fabian-fauth-RiWvn39cZSQ-unsplash.jpg
 thumb_image_alt: Modern white table
 seo:
   title: How To Choose An Interior Designer
