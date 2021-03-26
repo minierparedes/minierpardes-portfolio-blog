@@ -33,8 +33,7 @@ seo:
       value: LeetCode 70 Climbing Stairs
     - name: 'twitter:description'
       value: >-
-        Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
-        ac eu interdum placerat
+        Dynamic Programming
     - name: 'twitter:image'
       value: images/10.jpg
       relativeUrl: true
