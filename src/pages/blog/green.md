@@ -7,9 +7,9 @@ excerpt: >-
   nam libero justo laoreet sit.
 date: '2021-01-04'
 thumb_image: images/5_thumb.jpg
-thumb_image_alt: A white gamepad on a green background
+thumb_image_alt: an array of solar panels
 image: images/5.jpg
-image_alt: A white gamepad on a green background
+image_alt: an array of solar panels
 seo:
   title: LeetCode 53 Maximum subarray
   description: >-
