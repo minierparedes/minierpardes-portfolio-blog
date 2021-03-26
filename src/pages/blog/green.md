@@ -11,8 +11,7 @@ image_alt: an array of solar panels
 seo:
   title: LeetCode 53 Maximum subarray
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt
+    Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
   extra:
     - name: 'og:type'
       value: article
