@@ -46,10 +46,90 @@ image: images/friendly-pine.jpg
 image_alt: endless staircase
 ---
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+## Coding challenge
 
-![Modern white table](/images/10.jpg)
+You are climbing a staircase. It takes n steps to reach the top.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+##### Constraints
+
+
+`1 <= n <= 45
+`
+
+#### examples:
+
+
+```javascript
+Example 1:
+
+Input: n = 2
+Output: 2
+Explanation: There are two ways to climb to the top.
+1. 1 step + 1 step
+2. 2 steps
+
+Example 2:
+
+Input: n = 3
+Output: 3
+Explanation: There are three ways to climb to the top.
+1. 1 step + 1 step + 1 step
+2. 1 step + 2 steps
+3. 2 steps + 1 step
+```
+<br>
+
+## Breakdown and Discussion of challenge
+
+This challenge is about finding out how many combinations can there be within the given input using a one step or two steps. This challenge requires a more creative thinking for a solution, something that can be either a calculation or an interesting programmatic approach.
+
+The pattern for this problem is Dynamic Programming, and the method for solving the challenge is a variable swap within a for loop.
+
+
+## Approach
+
+In the function the first step is for an if statement to check if the given input is equal to 1, if so then `return` `1`, as there is only  one combination for that 1. Next, create and initialize two variables, `first` to `1` and `second` to `2` . 
+
+Now we will iterate with a for loop, setting the initializer variable to start at `i = 3` and the condition for the for loop to iterate is the variable `i` is `<=` the input `nums`. Within the loop we create and initialize a third variable to adding both `first` and `second`, `third = first + second`. Next, within the loop we will perform a variable swap:
+
+`first = second` <br>
+`second = third`
+
+Lastly, the function returns `second`.
+
+
+#### time complexity
+
+ _**O(n)**_.
+
+#### space complexity
+
+_***O(1)***_.
+
+## Code
+
+```javascript
+function climbStairs(nums) {
+    if (nums === 1) return 1;
+
+    let first = 1;
+    let second = 2;
+    for (let i = 3; i <= nums; i++) {
+        let third = first + second;
+        first = second;
+        second = third;
+    }
+    return second;
+};
+```
+
+<br>
+<br>
+
+## Road to 170
+
+**LC: 5**
+
+This is the fifth Leetcode challenge of the 170 challenges from the [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/) by Sean Prashad
