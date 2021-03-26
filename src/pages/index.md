@@ -39,7 +39,7 @@ seo:
       value: The preview of the Exto theme
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/Screen%20Shot%202021-03-26%20at%2010.22.20.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
