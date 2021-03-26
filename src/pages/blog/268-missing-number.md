@@ -2,7 +2,7 @@
 title: LeetCode 268 Missing Number
 excerpt: >-
  Given an array nums containing n distinct numbers in the range `[0, n]`, return the only number 
-in the range that is missing from the array.
+ in the range that is missing from the array.
 date: '2020-12-24'
 thumb_image: images/makers-on-a-map.jpg
 image: images/marvelous-goat.jpg
