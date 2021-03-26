@@ -45,7 +45,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
-      value: summary_large_image
+      value: 'Minierparedes portfolio '
     - name: 'twitter:title'
       value: Minierparedes Portfolio Software engineer
     - name: 'twitter:description'
