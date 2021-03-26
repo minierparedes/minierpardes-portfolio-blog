@@ -17,7 +17,7 @@ seo:
       value: The Advantages and Disadvantages of Working from Home
       keyName: property
     - name: 'og:description'
-      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+      value: Frequency Counter
       keyName: property
     - name: 'og:image'
       value: images/9.jpg
@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: The Advantages and Disadvantages of Working from Home
     - name: 'twitter:description'
-      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+      value: Frequency Counter
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
