@@ -1,8 +1,7 @@
 ---
 title: How To Choose An Interior Designer
 subtitle: >-
-  Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”.
+  Dynamic Programming
 excerpt: >-
   Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu
   interdum placerat placerat arcu commodo lobortis adipiscing semper ornare
