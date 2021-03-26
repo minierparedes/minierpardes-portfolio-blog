@@ -6,9 +6,9 @@ If you were only permitted to complete at most one transaction (i.e., buy one an
 share of the stock), design an algorithm to find the maximum profit.
 date: '2020-12-31'
 thumb_image: images/8_thumb.jpg
-thumb_image_alt: Hello this way printed on a red metal gate
+thumb_image_alt: bullish market statue
 image: images/8.jpg
-image_alt: Hello this way printed on a red metal gate
+image_alt: bullish market statue
 seo:
   title: LeetCode 121 Best time to buy and sell stock
   description: >-
