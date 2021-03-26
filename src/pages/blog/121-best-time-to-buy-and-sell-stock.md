@@ -1,18 +1,18 @@
 ---
 title: LeetCode 121 Best time to buy and sell stock
 excerpt: >-
- Say you have an array for which the ith element is the price of a given stock on day i.
- If you were only permitted to complete at most one transaction (i.e., buy one and sell one 
- share of the stock), design an algorithm to find the maximum profit.
+  Say you have an array for which the ith element is the price of a given stock
+  on day i. If you were only permitted to complete at most one transaction
+  (i.e., buy one and sell one  share of the stock), design an algorithm to find
+  the maximum profit.
 date: '2020-12-31'
 thumb_image: images/8_thumb.jpg
 thumb_image_alt: bullish market statue
-image: images/8.jpg
+image: images/hans-eiskonen-wn57cSQ7VzI-unsplash.jpg
 image_alt: bullish market statue
 seo:
   title: LeetCode 121 Best time to buy and sell stock
-  description: >-
-    Dynamic Programming
+  description: Dynamic Programming
   extra:
     - name: 'og:type'
       value: article
@@ -21,8 +21,7 @@ seo:
       value: LeetCode 121 Best time to buy and sell stock
       keyName: property
     - name: 'og:description'
-      value: >-
-        Dynamic Programming
+      value: Dynamic Programming
       keyName: property
     - name: 'og:image'
       value: images/8.jpg
@@ -33,8 +32,7 @@ seo:
     - name: 'twitter:title'
       value: LeetCode 121 Best time to buy and sell stock
     - name: 'twitter:description'
-      value: >-
-        Dynamic Programming
+      value: Dynamic Programming
     - name: 'twitter:image'
       value: images/8.jpg
       relativeUrl: true
