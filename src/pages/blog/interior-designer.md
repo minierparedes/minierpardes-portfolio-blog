@@ -11,8 +11,7 @@ thumb_image_alt: endless staircase
 seo:
   title: LeetCode 70 Climbing Stairs
   description: >-
-    Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac
-    eu interdum placerat
+    Dynamic Programming
   extra:
     - name: 'og:type'
       value: article
