@@ -1,7 +1,7 @@
 ---
 title: LeetCode 268 Missing Number
 excerpt: >-
-  Given an array nums containing n distinct numbers in the range `[0, n]`, return the only number 
+Given an array nums containing n distinct numbers in the range `[0, n]`, return the only number 
 in the range that is missing from the array.
 date: '2016-08-22'
 thumb_image: images/makers-on-a-map.jpg
