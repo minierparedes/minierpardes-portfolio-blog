@@ -9,7 +9,7 @@ date: '2020-12-30'
 thumb_image: images/fabian-fauth-RiWvn39cZSQ-unsplash.jpg
 thumb_image_alt: endless staircase
 seo:
-  title: How To Choose An Interior Designer
+  title: LeetCode 70 Climbing Stairs
   description: >-
     Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac
     eu interdum placerat
@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: How To Choose An Interior Designer
+      value: LeetCode 70 Climbing Stairs
       keyName: property
     - name: 'og:description'
       value: >-
@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: How To Choose An Interior Designer
+      value: LeetCode 70 Climbing Stairs
     - name: 'twitter:description'
       value: >-
         Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
