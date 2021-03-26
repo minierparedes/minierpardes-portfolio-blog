@@ -5,7 +5,7 @@ subtitle: >-
 excerpt: >-
 You are climbing a staircase. It takes n steps to reach the top.
 Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
-date: '2017-03-26'
+date: '2020-12-30'
 thumb_image: images/fabian-fauth-RiWvn39cZSQ-unsplash.jpg
 thumb_image_alt: endless staircase
 seo:
