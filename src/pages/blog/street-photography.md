@@ -34,8 +34,7 @@ seo:
       value: LeetCode 121 Best time to buy and sell stock
     - name: 'twitter:description'
       value: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt
+        Dynamic Programming
     - name: 'twitter:image'
       value: images/8.jpg
       relativeUrl: true
