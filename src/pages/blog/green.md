@@ -11,7 +11,7 @@ thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
 image_alt: A white gamepad on a green background
 seo:
-  title: Green is my favorite color
+  title: LeetCode 53 Maximum subarray
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt
@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Green is my favorite color
+      value: LeetCode 53 Maximum subarray
       keyName: property
     - name: 'og:description'
       value: >-
@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Green is my favorite color
+      value: LeetCode 53 Maximum subarray
     - name: 'twitter:description'
       value: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
