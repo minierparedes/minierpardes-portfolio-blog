@@ -41,8 +41,75 @@ seo:
 template: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
+## Coding challenge
 
-Scelerisque fermentum dui faucibus in ornare quam viverra orci. Libero justo laoreet sit amet cursus. Gravida rutrum quisque non tellus orci. Ut sem nulla pharetra diam sit amet nisl suscipit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Urna porttitor rhoncus dolor purus. Quisque non tellus orci ac auctor augue mauris augue. Consectetur adipiscing elit duis tristique sollicitudin. Vitae semper quis lectus nulla at volutpat. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Porta nibh venenatis cras sed felis eget velit. Ullamcorper malesuada proin libero nunc consequat interdum. Enim sed faucibus turpis in eu mi bibendum neque egestas. Facilisi morbi tempus iaculis urna. Rhoncus est pellentesque elit ullamcorper dignissim. Aenean et tortor at risus viverra adipiscing at in. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed. Sit amet aliquam id diam. Ut tristique et egestas quis ipsum suspendisse. Congue quisque egestas diam in arcu cursus.
+Say you have an array for which the ith element is the price of a given stock on day i.
 
-Mattis enim ut tellus elementum sagittis. At volutpat diam ut venenatis tellus in metus vulputate eu. Habitant morbi tristique senectus et. Id aliquet lectus proin nibh nisl condimentum id venenatis. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lectus vestibulum mattis ullamcorper velit sed. Semper viverra nam libero justo. Purus sit amet luctus venenatis. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Feugiat nibh sed pulvinar proin gravida.
+If you were only permitted to complete at most one transaction (i.e., buy one and sell one 
+share of the stock), design an algorithm to find the maximum profit.
+
+Note that you cannot sell a stock before you buy one.
+
+#### examples:
+
+
+```javascript
+Input: [7,1,5,3,6,4]
+Output: 5
+Explanation: 
+Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5. 
+Not 7-1 = 6, as selling price needs to be larger than buying price.
+
+Input: [7,6,4,3,1]
+Output: 0
+Explanation: In this case, no transaction is done, i.e. max profit = 0.
+
+```
+<br>
+
+## Breakdown and Discussion of challenge
+
+The point of the challenge is to be able find the minimum value within the array in order to buy, followed by being able to find the maximum value within the array after you buy, in order to sell. 
+<br>The function needs to be able to return the maximum profit you can get from any given array input.
+
+
+## Approach
+
+In a function we need to be able to keep track of both the minimum and the maximum values. Within the function two variables will be declared and initialized, `maxPrice = 0` and `minPrice = Number.MAX_VALUE`, the latter is initialized to Number.MAX_VALUE in order to ensure that its value is always less than the maximum possible number on each turn. Useful as an initial value when searching for the minimum value.
+
+The for loop will iterate through every index of the array `prices` asking the following question with an if statement: `if (prices[i] < minPrice)` set `prices[i]` to be the `minPrice`, otherwise set `maxPrice` to be maximum return value from `Math.max(maxPricem prices[i] - minPrice)`. All that is left is for the function to `return maxPrice`
+
+#### time complexity
+
+ _**O(n)**_.
+
+#### space complexity
+
+_***O(1)***_.
+
+## Code
+
+```javascript
+function maxProfit(prices) {
+    let maxPrice = 0;
+    let minPrice = Number.MAX_VALUE;
+
+    for (let i = 0; i < prices.length; i++) {
+        if (prices[i] < minPrice) {
+            minPrice = prices[i];
+        }else {
+            maxPrice = Math.max(maxPrice, prices[i]- minPrice);
+        }
+    }
+    return maxPrice;
+};
+```
+
+<br>
+<br>
+
+## Road to 170
+
+**LC: 6**
+
+This is the 6th Leetcode challenge of the 170 challenges from the [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/) by Sean Prashad
