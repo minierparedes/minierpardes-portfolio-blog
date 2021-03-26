@@ -6,7 +6,7 @@ excerpt: >-
   (i.e., buy one and sell one  share of the stock), design an algorithm to find
   the maximum profit.
 date: '2020-12-31'
-thumb_image: images/8_thumb.jpg
+thumb_image: images/famous-robin.jpg
 thumb_image_alt: bullish market statue
 image: images/hans-eiskonen-wn57cSQ7VzI-unsplash.jpg
 image_alt: bullish market statue
