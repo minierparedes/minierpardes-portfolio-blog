@@ -2,9 +2,7 @@
 title: LeetCode 53 Maximum subarray
 subtitle: 'dynamic programming'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
-  nam libero justo laoreet sit.
+  Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 date: '2021-01-04'
 thumb_image: images/5_thumb.jpg
 thumb_image_alt: an array of solar panels
