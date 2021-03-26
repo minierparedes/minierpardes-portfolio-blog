@@ -7,14 +7,14 @@ date: '2020-12-24'
 thumb_image: images/makers-on-a-map.jpg
 image: images/marvelous-goat.jpg
 seo:
-  title: The Advantages and Disadvantages of Working from Home
+  title: LeetCode 268 Missing Number
   description: Frequency Counter
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: LeetCode 268 Missing Number
       keyName: property
     - name: 'og:description'
       value: Frequency Counter
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: LeetCode 268 Missing Number
     - name: 'twitter:description'
       value: Frequency Counter
     - name: 'twitter:image'
