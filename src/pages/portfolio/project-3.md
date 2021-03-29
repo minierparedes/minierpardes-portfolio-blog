@@ -90,9 +90,6 @@ The web app was deployed in [**Netlify**](https://hardcore-meninsky-aebb95.netli
 <br>
 The web app is responsive and designed and developed with a mobile first approach.
 
-## Feedback
-Feel free to send us feedback on [twitter](https://twitter.com/minierparedes)  or file an issue. Feature requests are always welcome. If you wish to contribute.
-
 ## Built with
 <p float="left">
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
