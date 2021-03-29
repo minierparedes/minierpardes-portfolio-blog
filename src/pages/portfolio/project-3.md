@@ -7,14 +7,14 @@ thumb_image_alt: covid19 app on multiple devices
 image: images/terrific-squid.jpg
 image_alt: covid19 app on multiple devices
 seo:
-  title: Project Title 3
+  title: Covid-19 Tracker
   description: Detailed information on local and global coronavirus
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 3
+      value: Covid-19 Tracker
       keyName: property
     - name: 'og:description'
       value: Detailed information on local and global coronavirus
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 3
+      value: Covid-19 Tracker
     - name: 'twitter:description'
       value: Detailed information on local and global coronavirus
     - name: 'twitter:image'
