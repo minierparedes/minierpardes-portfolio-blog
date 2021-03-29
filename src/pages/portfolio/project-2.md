@@ -1,6 +1,6 @@
 ---
 title: MusicWand
-subtitle: a simple, easy-to-use music composition app.
+subtitle: a simple, easy-to-use music composition app
 date: '2020-09-23'
 thumb_image_alt: music wand app
 image: images/perpetual-tiger.jpg
