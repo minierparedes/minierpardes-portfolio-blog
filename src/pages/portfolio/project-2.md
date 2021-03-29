@@ -37,7 +37,7 @@ thumb_image: images/MusicWandMultiScreenMockup4.jpg
 
 # MusicWand
 
-#Try our App on the App Store!
+##Try our App on the App Store!
 
 [MusicWand](https://apps.apple.com/jp/app/musicwandapp/id1531619542?l=en)
 
