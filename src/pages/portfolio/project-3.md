@@ -108,8 +108,3 @@ Support for app will continue with future implemations.
 
 Minierparedes
 
-### License
-<img src="https://img.shields.io/badge/license-MIT-blue">
-
-For open source projects.
-
