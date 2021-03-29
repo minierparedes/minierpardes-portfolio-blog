@@ -9,7 +9,7 @@ sections:
     actions: []
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: Recent Work
     subtitle: Projects I'm most passionate about.
     projects_number: 4
