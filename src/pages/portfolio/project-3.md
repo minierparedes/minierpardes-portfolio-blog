@@ -80,8 +80,6 @@ The web app was deployed in [**Netlify**](https://hardcore-meninsky-aebb95.netli
 
 #### Landing page
 
-![Landing page img](./public/img/landing-page.png){: .shadow}
-
 <br>
 
 #### Types of charts
