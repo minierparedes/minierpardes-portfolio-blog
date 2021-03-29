@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hello, I''m Jesus Software Engineer'
+    title: 'Hello, I''m Jesus. Software Engineer'
     content: "I love programming and the challenges that are the essentials to help you grow. Enjoy family, cooking, and being a good host.✌\U0001F3FD\n"
     actions: []
   - section_id: latest-projects
