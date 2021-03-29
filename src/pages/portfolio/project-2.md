@@ -35,7 +35,7 @@ template: project
 thumb_image: images/MusicWandMultiScreenMockup4.jpg
 ---
 
-# MusicWand :musical_note:
+# MusicWand
 
 ## :loudspeaker: :loudspeaker: Try our App on the App Store!
 
