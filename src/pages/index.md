@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hello, I''m Jesus. Software Engineer'
+    title: 'Hello, I''m Jesus'
     content: |
       #### Software Engineer
     actions:
