@@ -4,7 +4,7 @@ subtitle: Full Stack website
 date: '2019-05-10'
 thumb_image: images/polite-coriander.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/thoughtful-petunia.jpg
+image: images/ultra-pine.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
