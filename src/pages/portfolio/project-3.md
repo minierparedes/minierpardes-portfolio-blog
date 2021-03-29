@@ -90,13 +90,6 @@ The web app was deployed in [**Netlify**](https://hardcore-meninsky-aebb95.netli
 <br>
 The web app is responsive and designed and developed with a mobile first approach.
 
-<br>
-
-<p float="left">
-<kbd><img width="250px" src="./public/img/mobile1.png"></kbd>
-<kbd><img width="250px" src="./public/img/mobile2.png"></kbd>
-</p>
-
 ## Feedback
 Feel free to send us feedback on [twitter](https://twitter.com/minierparedes)  or file an issue. Feature requests are always welcome. If you wish to contribute.
 
