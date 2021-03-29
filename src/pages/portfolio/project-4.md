@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/friendly-primrose.jpg
 thumb_image_alt: A table tennis racket on a pink background
-image: images/best-chili.jpg
+image: images/terrific-cabbage.jpg
 image_alt: A table tennis racket on a pink background
 seo:
   title: Project Title 4
