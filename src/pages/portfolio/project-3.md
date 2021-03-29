@@ -8,7 +8,7 @@ image: images/terrific-squid.jpg
 image_alt: covid19 app on multiple devices
 seo:
   title: Project Title 3
-  description: This is the project 3 description
+  description: Detailed information on local and global coronavirus
   extra:
     - name: 'og:type'
       value: website
@@ -17,7 +17,7 @@ seo:
       value: Project Title 3
       keyName: property
     - name: 'og:description'
-      value: This is the project 3 description
+      value: Detailed information on local and global coronavirus
       keyName: property
     - name: 'og:image'
       value: images/3.jpg
@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Project Title 3
     - name: 'twitter:description'
-      value: This is the project 3 description
+      value: Detailed information on local and global coronavirus
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
