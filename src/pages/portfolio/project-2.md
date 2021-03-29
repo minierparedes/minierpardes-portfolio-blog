@@ -42,7 +42,7 @@ thumb_image: images/MusicWandMultiScreenMockup4.jpg
 [MusicWand](https://apps.apple.com/jp/app/musicwandapp/id1531619542?l=en)
 
 
-## What is Music Wand? :musical_score: :mage: :writing_hand:
+## What is Music Wand?
 MusicWand is a simple, easy-to-use music composition app. Just create a new score and start adding in notes! Hear your song played back to you when you press play! \
 
 ## Awesome Features :musical_keyboard: :musical_score:
