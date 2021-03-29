@@ -45,7 +45,7 @@ thumb_image: images/MusicWandMultiScreenMockup4.jpg
 ## What is Music Wand?
 MusicWand is a simple, easy-to-use music composition app. Just create a new score and start adding in notes! Hear your song played back to you when you press play! \
 
-## Awesome Features :musical_keyboard: :musical_score:
+## Awesome Features
 Great drag & drop functionality!
 
 Simple selection of notes & Easy to use controls
