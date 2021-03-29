@@ -1,7 +1,7 @@
 ---
 title: MusicWand
 subtitle: Optional Project Subtitle
-date: '2020-04-30'
+date: '2020-09-30'
 thumb_image_alt: music wand app
 image: images/perpetual-tiger.jpg
 image_alt: music wand app
