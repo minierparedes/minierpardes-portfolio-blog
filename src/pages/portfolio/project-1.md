@@ -1,7 +1,7 @@
 ---
 title: Chef Awesome
 subtitle: Full Stack website
-date: '2019-05-10'
+date: '2020-12-21'
 thumb_image: images/parallel-sun.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/ultra-pine.jpg
