@@ -2,7 +2,7 @@
 title: Chef Awesome
 subtitle: Full Stack website
 date: '2019-05-10'
-thumb_image: images/smartmockups_kmuk6gv5.jpg
+thumb_image: images/marvelous-crane.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/ultra-pine.jpg
 image_alt: 'White, black, and red shoe sole'
