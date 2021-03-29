@@ -7,7 +7,7 @@ image: images/perpetual-tiger.jpg
 image_alt: music wand app
 seo:
   title: MusicWand app
-  description: This is the project 2 description
+  description: a simple, easy-to-use music composition app.
   extra:
     - name: 'og:type'
       value: website
@@ -16,7 +16,7 @@ seo:
       value: MusicWand app
       keyName: property
     - name: 'og:description'
-      value: This is the project 2 description
+      value: a simple, easy-to-use music composition app.
       keyName: property
     - name: 'og:image'
       value: images/2.jpg
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:title'
       value: MusicWand app
     - name: 'twitter:description'
-      value: This is the project 2 description
+      value: a simple, easy-to-use music composition app.
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
