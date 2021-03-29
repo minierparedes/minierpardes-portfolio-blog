@@ -78,8 +78,6 @@ The web app was deployed in [**Netlify**](https://hardcore-meninsky-aebb95.netli
 
 [COVID TRACKER 19](https://hardcore-meninsky-aebb95.netlify.app) 
 
-#### Landing page
-
 <br>
 
 #### Types of charts
