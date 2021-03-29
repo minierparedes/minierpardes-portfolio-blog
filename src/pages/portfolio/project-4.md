@@ -2,7 +2,7 @@
 title: Tenki app
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
-thumb_image: images/weather-icon.png
+thumb_image: images/Screen Shot 2021-03-29 at 15.46.55.png
 thumb_image_alt: A table tennis racket on a pink background
 image: images/gavin-allanwood-rObq1WBp_Ew-unsplash.jpg
 image_alt: A table tennis racket on a pink background
