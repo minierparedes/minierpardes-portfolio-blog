@@ -2,7 +2,7 @@
 title: Covid-19 Tracker
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_image: images/adam-niescioruk-Z9arfr0f248-unsplash.jpg
+thumb_image: images/smartmockups_kmu7weif.png
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
