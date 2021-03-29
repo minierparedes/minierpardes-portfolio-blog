@@ -2,7 +2,7 @@
 title: MusicWand
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image_alt: An orange on a blue background
+thumb_image_alt: music wand app
 image: images/perpetual-tiger.jpg
 image_alt: music wand app
 seo:
