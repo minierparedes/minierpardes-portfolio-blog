@@ -65,6 +65,6 @@ We undertook this project with little to no prior experience with Swift and iOS 
 [@scottjohnson623](https://github.com/scottjohnson623) \
 [@matt185](https://github.com/matt185)
 
-## How to contribute :raised_hand: :raised_hand:
+## How to contribute
 
 Raise an issue on Github! We know there are some bugs and some features that would be really well-liked. We might continue to improve the project over time, you never know!
