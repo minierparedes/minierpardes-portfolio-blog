@@ -56,7 +56,7 @@ A cool keyboard! Only one octave for now, but it works like a charm! Use this to
 ![Main Screen View](https://github.com/MusicMens/MusicWandPog/blob/master/Demo/piano_keyboard.gif)
 
 
-## About our team :fire: :fire:
+## About our team
 
 We undertook this project with little to no prior experience with Swift and iOS Development. Three of us had to learn Swift on the spot! Within less than a month, we were able to successfully use SwiftUI, UIKit, and AudioKit to create this wonderful app. We hope you enjoy using it as much as we enjoyed writing it. 
 
