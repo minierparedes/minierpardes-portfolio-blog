@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image_alt: An orange on a blue background
 image: images/perpetual-tiger.jpg
-image_alt: An orange on a blue background
+image_alt: music wand app
 seo:
   title: Project Title 2
   description: This is the project 2 description
