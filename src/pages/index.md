@@ -6,7 +6,14 @@ sections:
     type: section_hero
     title: 'Hello, I''m Jesus. Software Engineer'
     content: "I love programming \U0001F4BB and the challenges that are the essentials to help you grow. Enjoy family \U0001F468‍\U0001F469‍\U0001F467, cooking \U0001F37B, and being a good host\U0001F3A9✌\U0001F3FD.\n"
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
