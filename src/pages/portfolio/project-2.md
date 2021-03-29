@@ -6,14 +6,14 @@ thumb_image_alt: music wand app
 image: images/perpetual-tiger.jpg
 image_alt: music wand app
 seo:
-  title: Project Title 2
+  title: Music
   description: This is the project 2 description
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 2
+      value: Music
       keyName: property
     - name: 'og:description'
       value: This is the project 2 description
@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 2
+      value: Music
     - name: 'twitter:description'
       value: This is the project 2 description
     - name: 'twitter:image'
