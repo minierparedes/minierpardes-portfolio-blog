@@ -2,7 +2,7 @@
 title: MusicWand
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: images/kind-spruce.jpg
+thumb_image: images/MusicWandMultiScreenMockup3.jpg
 thumb_image_alt: An orange on a blue background
 image: images/clever-tulip.jpg
 image_alt: An orange on a blue background
