@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/Covid19MultiDeviceMockup.jpg
 thumb_image_alt: covid19 app on multiple devices
-image: images/beige-chestnut.png
+image: images/terrific-squid.jpg
 image_alt: covid19 app on multiple devices
 seo:
   title: Project Title 3
