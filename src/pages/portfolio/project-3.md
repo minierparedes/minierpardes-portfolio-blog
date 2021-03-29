@@ -85,9 +85,6 @@ The web app was deployed in [**Netlify**](https://hardcore-meninsky-aebb95.netli
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 
 
-<kbd><img width="450px" src="./public/img/charts.png"></kbd>
-
-
 #### Mobile support
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> 
 <br>
