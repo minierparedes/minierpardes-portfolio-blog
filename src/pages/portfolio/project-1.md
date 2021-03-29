@@ -4,7 +4,7 @@ subtitle: Full Stack website
 date: '2019-05-10'
 thumb_image: images/blue-artichoke.png
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/important-moon.png
+image: images/oval-tulip.png
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
