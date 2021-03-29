@@ -2,7 +2,7 @@
 title: Covid-19 Tracker
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_image: images/Covid19mockup.jpg
+thumb_image: images/Screen Shot 2021-03-29 at 16.57.37.png
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/beige-chestnut.png
 image_alt: A yellow retro telephone on a yellow background
