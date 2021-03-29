@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hello, I''m Jesus'
-    content: "#### Software Engineer\n\n\n\nI love programming \U0001F4BB and the challenges that are the essentials to help you grow. Enjoy family \U0001F468‍\U0001F469‍\U0001F467, cooking \U0001F37B, and being a good host\U0001F3A9✌\U0001F3FD.\n"
+    content: "## Software Engineer\n\n\n\n\n\n\n\nI love programming \U0001F4BB and the challenges that are the essentials to help you grow. Enjoy family \U0001F468‍\U0001F469‍\U0001F467, cooking \U0001F37B, and being a good host\U0001F3A9✌\U0001F3FD.\n"
     actions: []
   - section_id: latest-projects
     type: section_portfolio
