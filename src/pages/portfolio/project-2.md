@@ -35,10 +35,42 @@ template: project
 thumb_image: images/MusicWandMultiScreenMockup4.jpg
 ---
 
-Urna duis convallis convallis tellus. Tincidunt id aliquet risus feugiat in ante metus dictum. Purus faucibus ornare suspendisse sed nisi lacus sed viverra. Vitae purus faucibus ornare suspendisse sed nisi lacus. Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Leo vel fringilla est ullamcorper eget nulla facilisi etiam. Aliquam ut porttitor leo a diam. Dictum at tempor commodo ullamcorper a lacus. Tortor consequat id porta nibh. Felis donec et odio pellentesque diam volutpat commodo. In nibh mauris cursus mattis molestie a iaculis. Morbi tincidunt ornare massa eget egestas purus viverra accumsan. Tempor commodo ullamcorper a lacus vestibulum. Ipsum nunc aliquet bibendum enim facilisis gravida neque.
+# :musical_note: MusicWand :musical_note:
 
->"Every great design begins with an even better story." - Lorinda Mamo
+## :loudspeaker: :loudspeaker: Try our App on the App Store!
 
-Tempor orci eu lobortis elementum nibh. Tincidunt dui ut ornare lectus. Sagittis purus sit amet volutpat consequat mauris nunc. Turpis egestas pretium aenean pharetra. Egestas congue quisque egestas diam. Interdum velit euismod in pellentesque massa. Sapien et ligula ullamcorper malesuada proin libero nunc. Elit at imperdiet dui accumsan sit amet nulla. Facilisi nullam vehicula ipsum a. Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper.
+[MusicWand](https://apps.apple.com/jp/app/musicwandapp/id1531619542?l=en)
 
-Risus in hendrerit gravida rutrum quisque. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Urna nec tincidunt praesent semper. Elementum nibh tellus molestie nunc non blandit massa enim. Pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies. Lorem mollis aliquam ut porttitor. Quam quisque id diam vel quam elementum pulvinar etiam non. Sed tempus urna et pharetra pharetra. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Tempor orci dapibus ultrices in iaculis nunc sed. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Eu mi bibendum neque egestas congue quisque. Integer quis auctor elit sed vulputate mi sit. Nullam ac tortor vitae purus faucibus ornare suspendisse sed.
+
+## What is Music Wand? :musical_score: :mage: :writing_hand:
+MusicWand is a simple, easy-to-use music composition app. Just create a new score and start adding in notes! Hear your song played back to you when you press play! \
+
+## Awesome Features :musical_keyboard: :musical_score:
+Great drag & drop functionality!
+
+Simple selection of notes & Easy to use controls
+
+![Main Screen View](https://github.com/MusicMens/MusicWandPog/blob/master/Demo/Main%20Screen.gif)![Main Screen View](https://github.com/MusicMens/MusicWandPog/blob/master/Demo/drag_and_drop.gif)
+
+A cool keyboard! Only one octave for now, but it works like a charm! Use this to do some quick improvisation before you write it down! :notes: 
+![Main Screen View](https://github.com/MusicMens/MusicWandPog/blob/master/Demo/piano_keyboard.gif)
+
+## :point_right: How to run this project :point_left:
+
+Clone the repository and run
+```
+pod install
+```
+Open MusicWand.xcworkspace. Build and Run 
+## About our team :fire: :fire:
+
+We undertook this project with little to no prior experience with Swift and iOS Development. Three of us had to learn Swift on the spot! Within less than a month, we were able to successfully use SwiftUI, UIKit, and AudioKit to create this wonderful app. We hope you enjoy using it as much as we enjoyed writing it. 
+
+[@austingmhuang](https://github.com/austingmhuang) \
+[@minierparedes](http://github.com/minierparedes/) \
+[@scottjohnson623](https://github.com/scottjohnson623) \
+[@matt185](https://github.com/matt185)
+
+## How to contribute :raised_hand: :raised_hand:
+
+Raise an issue on Github! We know there are some bugs and some features that would be really well-liked. We might continue to improve the project over time, you never know!
