@@ -1,6 +1,6 @@
 ---
 title: Covid-19 Tracker
-subtitle: detailed information on local and global coronavirus
+subtitle: Detailed information on local and global coronavirus
 date: '2020-12-08'
 thumb_image: images/Covid19MultiDeviceMockup.jpg
 thumb_image_alt: covid19 app on multiple devices
