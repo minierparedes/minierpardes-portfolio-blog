@@ -45,7 +45,7 @@ template: post
 ---
 # A hero's Journey
 
-This is my journey to mastering data structures and algorithms, both for myself,helpinng further develop my coding and analitical skills, as well as for being able to have an opportunity at\*\* cracking the coding interview\*\*. I plan to record my daily grid, working withLeetCode and its platform of coding challenges.
+This is my journey to mastering data structures and algorithms, both for myself, helping further develop my coding and analitical skills, as well as for being able to have an opportunity at\*\* cracking the coding interview\*\*. I plan to record my daily grid, working withLeetCode and its platform of coding challenges.
 
 The materials and resources I will be using are:
 
@@ -64,7 +64,6 @@ The site is dedicated to help give:
 
 > the ability to map a new problem to an already known problem.
 
-
 They help candidates with that, we've come up with a list of 16 patterns for coding questions, based on similarities in the techniques needed to solve them. As a result, once you're familiar with a pattern, you'll be able to solve dozens of problems with it.
 
 ## JavaScript Algorithms and Data Structure Masterclass
@@ -73,16 +72,13 @@ A Udemy course by Colt Steele on teaching you how to analyze your code’s time 
 
 ## Master Algorithms and Data Structure through deliberate practice
 
-deliberate practice is: 
+deliberate practice is:
 
-> Special type of practice that is purposeful and systematic. 
-
+> Special type of practice that is purposeful and systematic.
 
 deliberate practice, is the opposite of some regular practice, that is just mindlessly doing the same repetitions, it's being conscience about your practice and concentration on the task at hand. Focusing on practice that becomes much more difficult and extends your abilities.
 deliberate practice was researched by Psychologist[ **K. Anders Ericsson**](https://en.wikipedia.org/wiki/K.\_Anders_Ericsson), a professor of Psychology,  how expert one becomes at a skill has more to do with how one practises than with merely performing a skill a large number of times. An expert breaks down the skills that are required to be expert and focuses on improving those skill chunks during practice or day-to-day activities, often paired with immediate coaching feedback.
 The second important point of deliberate practice is continually practising a skill at more challenging levels with the intention of mastering it.
-
-
 
 # How to apply deliberate practice with coding
 
@@ -90,19 +86,16 @@ The second important point of deliberate practice is continually practising a sk
 
 ### GRIT
 
-To persevere and succeed in the face of adversity. Continue focusing on the material with which one struggles.If one applies grit on their work, one's effort will increase and improve. 
-As [**Angela Duckworth**](https://en.wikipedia.org/wiki/Angela_Duckworth), states:  
+To persevere and succeed in the face of adversity. Continue focusing on the material with which one struggles.If one applies grit on their work, one's effort will increase and improve.
+As [**Angela Duckworth**](https://en.wikipedia.org/wiki/Angela_Duckworth), states:
 
 > as much as talent counts, effort counts twice!
 
->
 > ...there are no shortcuts to excellence. Developing real expertise, figuring out really hard problems, it all takes time―longer than most people imagine....you've got to apply those skills and produce goods or services that are valuable to people....Grit is about working on something you care about so much that you're willing to stay loyal to it...it's doing what you love, but not just falling in love―staying in love!
 
-### **&#xA;**The 40% Rule
+### \*\*&#xA;\*\*The 40% Rule
 
 When your mind tells you it’s quitting time, you are actually only 40% spent.[ **David Goggins**](https://davidgoggins.com).
-
-
 
 #### **Sources**:
 
