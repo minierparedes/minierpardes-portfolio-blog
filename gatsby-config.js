@@ -29,6 +29,31 @@ module.exports = {
                 pageContextProperty: `menus`,
             }
         },
-        
+        `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    `gatsby-plugin-emotion`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-reading-time`,
+          `gatsby-remark-relative-images`,
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 860,
+              linkImagesToOriginal: false
+            }
+
+          },
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              aliases: { sh: "bash", js: "javascript" },
+              showLineNumbers: false,
+            }
+          }],
+      },
+    },
     ]
 };
