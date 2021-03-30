@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: LeetCode 303 Range Sum Query - Immutable
 subtitle: lorem-ipsum
 date: '2021-03-30'
 thumb_image_alt: lorem-ipsum
