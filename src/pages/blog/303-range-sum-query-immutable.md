@@ -3,7 +3,7 @@ title: LeetCode 303 Range Sum Query - Immutable
 subtitle: Dynamic Programming
 date: '2021-01-07'
 thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+image_alt: train yard
 excerpt: Given an integer array nums, find the sum of the elements between indices i and j (i ≤ j), inclusive.
 
 Implement the NumArray class:
