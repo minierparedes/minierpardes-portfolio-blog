@@ -3,7 +3,7 @@ title: LeetCode 303 Range Sum Query - Immutable
 subtitle: Dynamic Programming
 date: '2021-01-07'
 thumb_image_alt: train yard
-image_alt: lorem-ipsum
+image_alt: train yard
 excerpt: lorem-ipsum
 seo:
   title: ''
