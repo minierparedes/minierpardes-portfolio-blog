@@ -1,7 +1,7 @@
 ---
 title: LeetCode 303 Range Sum Query - Immutable
 subtitle: Dynamic Programming
-date: '2021-03-30'
+date: '2021-01-07'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
