@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: images/max-vertsanov-qvRuue12Huw-unsplash.jpg
+image: images/mighty-lime.jpg
 ---
 ## Lorem ipsum
 
