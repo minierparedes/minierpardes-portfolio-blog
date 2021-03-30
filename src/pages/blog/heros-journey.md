@@ -93,7 +93,7 @@ As [**Angela Duckworth**](https://en.wikipedia.org/wiki/Angela_Duckworth), state
 
 > ...there are no shortcuts to excellence. Developing real expertise, figuring out really hard problems, it all takes time―longer than most people imagine....you've got to apply those skills and produce goods or services that are valuable to people....Grit is about working on something you care about so much that you're willing to stay loyal to it...it's doing what you love, but not just falling in love―staying in love!
 
-### \*\*&#xA;\*\*The 40% Rule
+### The 40% Rule
 
 When your mind tells you it’s quitting time, you are actually only 40% spent.[ **David Goggins**](https://davidgoggins.com).
 
