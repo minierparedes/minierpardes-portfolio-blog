@@ -10,6 +10,8 @@
 // window.onGatsbyInitialClientRender() has run
 let initialized = false;
 
+require('prism-themes/themes/prism-duotone-light.css');
+
 exports.onInitialClientRender = () => {
     initialized = true;
     if ('onGatsbyInitialClientRender' in window && typeof window.onGatsbyInitialClientRender === 'function') {
