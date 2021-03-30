@@ -1,18 +1,13 @@
 ---
-title: LeetCode 303 Range Sum Query - Immutable
-subtitle: Dynamic Programming
-date: '2021-01-07'
-thumb_image_alt: train yard
-image_alt: train yard
-excerpt: Given an integer array nums, find the sum of the elements between indices i and j (i ≤ j), inclusive.
-
-Implement the NumArray class:
-
- `NumArray(int[] nums)` Initializes the object with the integer array nums.
- `int sumRange(int i, int j)` Return the sum of the elements of the nums array in the range `[i, j]` inclusive (i.e., `sum(nums[i], nums[i + 1], ... , nums[j])`)
+title: lorem-ipsum
+subtitle: lorem-ipsum
+date: '2021-03-30'
+thumb_image_alt: lorem-ipsum
+image_alt: lorem-ipsum
+excerpt: lorem-ipsum
 seo:
-  title: 'LeetCode 303 Range Sum Query - Immutable'
-  description: 'Dynamic Programming'
+  title: ''
+  description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
